@@ -1,0 +1,19 @@
+h1{
+    text-align: center;
+}
+body{
+    text-shadow: 1px 1px 2px black;
+    color:rgba(26, 18, 18, 0.774)
+
+
+}
+
+div{
+    margin-top: 40px;
+    font-weight: bolder;
+
+}
+
+input{
+    height: 15px;
+}
